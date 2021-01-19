@@ -11,3 +11,5 @@ Crestron-MTRCameraNF-v2.vtz - does not include Auto Framing control buttons, ful
 For loading instructions:
 
 Part One - https://avdoguctricks.com/2020/12/10/microsoft-teams-room-camera-control-with-crestron-solutions/
+
+Part Two - https://avdoguctricks.com/2021/01/19/microsoft-teams-room-camera-control-with-crestron-solutions-part-two/
